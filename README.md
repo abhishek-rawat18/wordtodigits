@@ -6,7 +6,7 @@ Instructor : Prof. Ramaseshan R
 
 This package is used to convert the numbers in the input present in word form to the traditional numeric (digits) form. It works from zero to nine hundred and ninety nine million nine  hundred and ninety nine thousand and nine hundred and ninety nine. It also takes care of the decimal part if present.
 
-Use in this way: 
+To use the package, follow these steps: 
 
 from wordtodigits import convert
 
