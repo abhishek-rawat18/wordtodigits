@@ -8,12 +8,12 @@ An example on how to use the package is shown below:-
 
 import wordtodigits
 
-text1 = 'A car accelerates for five point two one seconds for a distance of one hundred and ten meters. '
-print(wordtodigits.convert(text1))
+text1 = 'A car accelerates for five point two one seconds for a distance of one hundred and ten meters.'  
+print(wordtodigits.convert(text1))  
 #A car accelerates for 5.21 seconds for a distance of 110 meters.
 
-text2 = 'three thousand and fifty three point five is the final score'
-print(wordtodigits.convert(text2))
+text2 = 'three thousand and fifty three point five is the final score'  
+print(wordtodigits.convert(text2))  
 #3053.5 is the final score
 
 If you find any bugs, or have any suggestions for improvement, contact me at abhishek18.official@gmail.com
