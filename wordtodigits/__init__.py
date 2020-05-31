@@ -124,6 +124,6 @@ def convert(text): #Function in which the string (sentence) should be passed as 
             final_number=0
             temp_number=0
 
-    final_string=final_string[1:] #Remove the initial space
+    final_string=final_string[1:-1] #Remove the initial and ending space
     return(final_string)
             
