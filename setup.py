@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wordtodigits", # Replace with your own username
-    version="1.0.0",
+    version="1.0.1",
     author="Abhishek Rawat",
     author_email="abhishek18.official@gmail.com",
     description="To convert numbers in word form to digits",
