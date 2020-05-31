@@ -125,5 +125,5 @@ def convert(text): #Function in which the string (sentence) should be passed as 
             temp_number=0
 
     final_string=final_string[1:] #Remove the initial space
-    print(final_string)
+    return(final_string)
             
